@@ -36,3 +36,51 @@
     transform: rotate(360deg);
   }
 }
+
+
+<style>
+ h1{
+   border:none;
+   margin-top:20px;
+   margin-right:20px;
+   margin-bottom:-15px;
+   margin-left:20px;
+ }
+h2{
+  border:none;
+  margin-top:20px;
+  margin-right:20px;
+  margin-bottom:-15px ;
+  margin-left:20px;
+}
+h1{
+  color:darkblue;
+  font-size: 30px;
+}
+h2{
+  font-size:18px;
+  font-weight: bold;
+}
+h3{
+  font-size: 16px;
+  font-weight: normal;
+  text-align-all: right;
+}
+h4{
+  text-align: center;
+}
+h5{
+  margin-top:113px;
+  margin-right:20px;
+  margin-bottom:5px ;
+  margin-left:20px;
+}
+html {
+  background: thistle;
+  border-style: solid;
+  border-width: 25px;
+  border-color: lavender;
+  border-bottom-width: 15px;
+  text-align: -webkit-center;
+  margin: 10px 0 0 0;
+}
